@@ -7,10 +7,10 @@
 </br>
 
 ----------
-<h1>🌈
-[PROJECT-I DEMO](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/)
-🌈 </h1>
-----------
+---:boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom: 
+[PROJECT-I DEMO](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/) 
+:boom::boom::boom::boom::boom::boom::boom::boom::boom::boom::boom:---
+---------
 </br>
 <details open>
 <summary align="center">EXERCICIOS</summary>
