@@ -15,25 +15,18 @@
 
 <li> Semana 2</li>
 	[DEMO]()
-<ul>
 <li> Semana 3</li>
 	[DEMO]()
-<ul>
 <li> Semana 4</li>
 	[DEMO]()
-<ul>
 <li> Semana 5</li>
 	[DEMO]()
-<ul>
 <li> Semana 6</li>
 	[DEMO]()
-<ul>
 <li> Semana 7</li>
 	[DEMO]()
-<ul>
 <li> Semana 8</li>
 	[DEMO]()
-<ul>
 <li> Semana 9</li>
 	[DEMO]()
 </details>
