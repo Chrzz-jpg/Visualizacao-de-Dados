@@ -8,7 +8,7 @@
 
 ----------
 🌈
-[PROJECT-I](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/)
+[PROJECT-I DEMO](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/)
 🌈 
 ----------
 </br>
