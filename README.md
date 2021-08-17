@@ -12,7 +12,7 @@
 <ul>
 <li> Semana 1</li>
 	[DEMO]()
-<ul>
+
 <li> Semana 2</li>
 	[DEMO]()
 <ul>
