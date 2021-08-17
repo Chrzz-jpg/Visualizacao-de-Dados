@@ -4,10 +4,4 @@
 <h4 align="center"> 
 	🚧  Primerira versão 🚀 Finalizada...  🚧
 </h4>
-
-
---------------------
-![image](https://user-images.githubusercontent.com/48861422/129697668-2e0816f6-e782-4c70-99b8-4f419f166b56.png)
---------------------
-
-:rainbow: [DEMO](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I)
+:rainbow: [DEMO PROJECT I](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I)
