@@ -5,7 +5,7 @@
 	🚧  Primerira versão 🚀 Finalizada...  🚧
 </h4>
 ----------
-🌈 [PROJECT](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I)
+🌈  [PROJECT](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/)
 ----------
 <details open>
 <summary>EXERCICIOS</summary>
@@ -13,7 +13,7 @@
 <li> Semana 1</li>
 	[DEMO]()
 
-<li> Semana 2</li>
+<li> Semana 2</li>Cancel changes
 	[DEMO]()
 <li> Semana 3</li>
 	[DEMO]()
