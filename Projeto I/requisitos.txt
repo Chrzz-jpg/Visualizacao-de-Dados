@@ -1,0 +1,12 @@
+- Defina margens adequadas para os eixos x e y; 
+
+- (OK) Adicione o canvas SVG no element div #grafico (600x400); 
+- (OK) Adicione um grupo para os elementos SVG;
+- (OK) Defina os labels x e y;
+- (OK) Carregue os dados (referentes ao contexto do gráfico definido para o projeto) no main.js utilizando a função d3.json() ou similar;
+- (OK) Crie as escalas para visualização.
+- (OK) O eixo x deve ser uma band scale e o eixo y deve ser uma escala linear;
+- (OK) Utilize o D3 selectAll com os métodos enter();
+- (OK) Adicione o retângulo para cada valor (referentes ao contexto do gráfico definido para o projeto) associado aos dados;
+- (OK) Escale o retângulo para conter width e height;
+- (OK) Escolha os valores adequados para o eixo y; e, adicione os eixos e labels (considerando que o eixo Y tenha valores crescentes de baixo para cima).
