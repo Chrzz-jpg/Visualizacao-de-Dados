@@ -1,8 +1,8 @@
 <h1 align="center">VISUALIZAÇÃO DE DADOS</h1>
 
-<h2 align="center">  Projeto para visualização de dados json em gráficos de barras</h2>
+<h2 align="center">  Pasta dos arquivos trabalhados na disciplina de VD 2021-1</h2>
 <h4 align="center"> 
-	🚧  Primerira versão 🚀 Finalizada...  🚧
+	🚧  UFSC - UNIVERSIDADE FEDERAL DE SANTA CATARINA 🚧
 </h4>
 </br>
 
