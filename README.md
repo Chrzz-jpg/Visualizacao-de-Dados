@@ -4,4 +4,4 @@
 <h4 align="center"> 
 	🚧  Primerira versão 🚀 Finalizada...  🚧
 </h4>
-:rainbow: [DEMO PROJECTI](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I)
+:rainbow: [DEMO PROJECT-I](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I)
