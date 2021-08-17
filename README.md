@@ -12,7 +12,6 @@
 <ul>
 <li> Semana 1</li>
 [DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana1/index.html)
-	[I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
