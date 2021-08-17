@@ -14,27 +14,10 @@
 
 [DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana1/index.html)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-
-<li> Semana 2</li>Cancel changes
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana2/index.html)
+<li> Semana 2</li>
+	
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana2/index.html)
+	
 <li> Semana 3</li>
 	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana3/index.html)
 <li> Semana 4</li>
