@@ -5,7 +5,7 @@
 	🚧  Primerira versão 🚀 Finalizada...  🚧
 </h4>
 ----------
-🌈 [PROJECT-I DEMO](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I)
+🌈 [PROJECT](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I)
 ----------
 <details open>
 <summary>EXERCICIOS</summary>
