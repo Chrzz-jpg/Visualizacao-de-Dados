@@ -11,7 +11,6 @@
 <summary>EXERCICIOS</summary>
 <ul>
 <li> Semana 1</li>
-[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana1/index.html)
 
 [DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana1/index.html)
 
