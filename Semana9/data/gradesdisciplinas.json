@@ -1,0 +1,92 @@
+[   
+    {
+        "disciplina": "Matematica",
+        "notas": [    
+            {
+                "nome": "A01",
+                "nota": 100        
+            },
+            {
+                "nome": "A02",
+                "nota": 75
+            },
+            {
+                "nome": "A03",
+                "nota": 90
+            },
+            {
+                "nome": "A04",
+                "nota": 60
+            },
+            {
+                "nome": "A05",
+                "nota": 85
+            },
+            {
+                "nome": "A06",
+                "nota": 100
+            },
+            {
+                "nome": "A07",
+                "nota": 45
+            },
+            {
+                "nome": "A08",
+                "nota": 65
+            },
+            {
+                "nome": "A09",
+                "nota": 80
+            },
+            {
+                "nome": "A10",
+                "nota": 95
+            }
+        ]
+    },
+    {
+        "disciplina": "Portugues",
+        "notas": [    
+            {
+                "nome": "A01",
+                "nota": 70        
+            },
+            {
+                "nome": "A02",
+                "nota": 80
+            },
+            {
+                "nome": "A03",
+                "nota": 50
+            },
+            {
+                "nome": "A04",
+                "nota": 80
+            },
+            {
+                "nome": "A05",
+                "nota": 55
+            },
+            {
+                "nome": "A06",
+                "nota": 90
+            },
+            {
+                "nome": "A07",
+                "nota": 85
+            },
+            {
+                "nome": "A08",
+                "nota": 65
+            },
+            {
+                "nome": "A09",
+                "nota": 90
+            },
+            {
+                "nome": "A10",
+                "nota": 100
+            }
+        ]    
+    }
+]

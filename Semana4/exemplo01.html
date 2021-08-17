@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">            
+    <link rel="stylesheet" href="css/exemplo01.css">
+    <title>Exemplo 01 - D3.js</title>
+</head>
+<body>
+    Exemplo de D3 realizando a criação de um elemento SVG dentro de um elemento div
+    <div id="grafico"></div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        //Demonstração do encadeamento de métodos
+        d3.select("#grafico") // Retorna o elemento div com id=grafico
+          .append("svg") // Adiciona um elemento SVG ao div e retorna o elemento svg
+          .attr("width", 300) // Altera o atributo largura para 300
+          .attr("height", 300); //Altera o atributo altura para 300
+
+        d3.select("#grafico") // Retorna o elemento div com id=grafico
+          .append("p") // Adiciona um paragrafo ao div
+          .text("Criado pelo D3"); // Adicionando o texto
+
+        d3.select("#grafico")
+          .append("h1")
+          .text("Titulo");
+
+    </script>        
+              <button onclick="window.location.href='exemplo02.html'">Próximo</button>
+
+</body>
+</html>

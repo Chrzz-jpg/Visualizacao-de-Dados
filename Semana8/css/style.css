@@ -1,0 +1,26 @@
+.bubbles {
+	stroke-width: 2px;
+	stroke: rgb(228, 230, 202);
+}
+
+.bubbles:hover {
+	stroke: rgb(127, 105, 223);
+}
+
+#resetbutton, #playbutton {
+	width: 80px;
+	float: left;
+	margin-right: 10px;
+}
+
+#resetbutton, #playbutton {
+	margin-top: 5px;
+	margin-bottom: 10px;
+    background-color: rgb(223, 166, 156);
+}
+
+#continentselect {
+	width: 150px;
+	float: right;
+	margin-top: 5px;
+}

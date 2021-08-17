@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo de SVG</title>
+</head>
+<body>
+    <div>
+        <svg width="100" height="100">
+            <defs>
+                <clipPath id="cut-off-bottom">
+                    <rect x="0" y="0" width="200" height="100" />
+                </clipPath>
+            </defs>
+            
+              <circle cx="100" cy="100" r="100" clip-path="url(#cut-off-bottom)" />
+        </svg>        
+    </div>
+    <button onclick="window.location.href='exemplo09.html'">Próximo</button>
+</body>
+</html>

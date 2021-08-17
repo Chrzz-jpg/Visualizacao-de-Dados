@@ -1,0 +1,38 @@
+[
+	{
+		"job": "Analista de Dados",
+		"salary": 4500
+	},
+	{
+		"job": "Analista de Negócios",
+		"salary": 5675
+	},
+	{
+		"job": "Analista de Projetos de Software",
+		"salary": 5215
+	},
+	{
+		"job": "Chefe de Sistemas",
+		"salary": 8583
+	},
+	{
+		"job": "Engenheiro de Software",
+		"salary": 5550
+	},
+	{
+		"job": "Gerente de Projetos de Software",
+		"salary": 13873
+	},
+	{
+		"job": "Programador",
+		"salary": 3800
+	},
+	{
+		"job": "Webdesigner",
+		"salary": 4613
+	},
+	{
+		"job": "Webmaster",
+		"salary": 6798
+	}
+]
