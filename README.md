@@ -8,9 +8,9 @@
 
 ----------
 🌈 <h4 align="center>
-[PROJECT-I](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/)
+[PROJECT-I](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/)</h4>
 
-	</h4>🌈 
+	🌈 
 ----------
 </br>
 <details open>
