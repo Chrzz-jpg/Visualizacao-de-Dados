@@ -8,7 +8,7 @@
 🌈  [PROJECT](https://boottd.github.io/Visualizacao-de-Dados/Projeto%20I/)
 ----------
 <details open>
-<summary>EXERCICIOS</summary>
+<summary align="center">EXERCICIOS</summary>
 <ul>
 <li> Semana 1</li>
 
@@ -19,22 +19,36 @@
 [DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana2/index.html)
 	
 <li> Semana 3</li>
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana3/index.html)
+	
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana3/index.html)
+	
 <li> Semana 4</li>
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana4/index.html)
-<li> Semana 5</li>
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana5/index.html)
-<li> Semana 6</li>
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana6/index.html)
-<li> Semana 7</li>
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana7/index.html)
-<li> Semana 8</li>
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana8/index.html)
-<li> Semana 9</li>
-	[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana9/index.html)
-</details>
-<h2 align="center">EXERCICIOS</h2>
 
-<h2>EXERCICIOS</h2>
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana4/index.html)
+
+<li> Semana 5</li>
+
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana5/index.html)
+
+<li> Semana 6</li>
+
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana6/index.html)
+
+<li> Semana 7</li>
+
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana7/index.html)
+
+<li> Semana 8</li>
+
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana8/index.html)
+
+<li> Semana 9</li>
+
+[DEMO](https://boottd.github.io/Visualizacao-de-Dados/Semana9/index.html)
+
+</details>
+
+
+
 
 
